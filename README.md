@@ -4,11 +4,11 @@
 
 ------
 
-## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-1.svg" width="50" height="50"> [**C I: Introdução à Linguagem das Linguagens**](https://www.alura.com.br/curso-online-introducao-a-programacao-com-c-parte-1) 
+## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-1.svg" width="50" height="50"> [**C I: Introdução à Linguagem das Linguagens**](https://github.com/rzro/alura-c/tree/master/CI) 
 
-## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-2.svg" width="50" height="50"> [**C II: Avançando na linguagem**](https://www.alura.com.br/curso-online-introducao-a-programacao-com-c-parte-2)
+## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-2.svg" width="50" height="50"> [**C II: Avançando na linguagem**](https://github.com/rzro/alura-c/tree/master/CII)
 
-## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-3.svg" width="50" height="50"> [**C III: Recursos avançados da linguagem**](https://www.alura.com.br/curso-online-introducao-a-programacao-com-c-parte-3)
+## <img src="https://www.alura.com.br/assets/api/cursos/introducao-a-programacao-com-c-parte-3.svg" width="50" height="50"> [**C III: Recursos avançados da linguagem**](https://github.com/rzro/alura-c/tree/master/CIII)
 
 ------
 
